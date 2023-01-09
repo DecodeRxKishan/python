@@ -8,5 +8,3 @@ print("Item name     Quantity     price")
 print(" ", Item_name,"      ", Quantity,"       ", price)
 print("Amount to be paid", total)
 print("##################BILL####################")
-
-
